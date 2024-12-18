@@ -1,0 +1,24 @@
+65 years or older - Male
+65 years or older - White, non-Hispanic
+65 years or older - Asian/Pacific Islander
+65 years or older - Black, non-Hispanic
+65 years or older - Hispanic
+65 years or older - nan
+65 years or older - Native Am/Alaskan Native
+65 years or older - Female
+Overall - Male
+Overall - White, non-Hispanic
+Overall - Asian/Pacific Islander
+Overall - Black, non-Hispanic
+Overall - Hispanic
+Overall - nan
+Overall - Native Am/Alaskan Native
+Overall - Female
+50-64 years - Male
+50-64 years - White, non-Hispanic
+50-64 years - Asian/Pacific Islander
+50-64 years - Black, non-Hispanic
+50-64 years - Hispanic
+50-64 years - nan
+50-64 years - Native Am/Alaskan Native
+50-64 years - Female

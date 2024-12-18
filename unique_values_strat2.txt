@@ -1,0 +1,8 @@
+Male
+White, non-Hispanic
+Asian/Pacific Islander
+Black, non-Hispanic
+Hispanic
+nan
+Native Am/Alaskan Native
+Female
